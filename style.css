@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: LightPink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: LightCoral;
+    bottom: 20px;
+    width: 100vw;
+    height: 4.8vw;
+}
+
+#ancoraheader{
+    color: white;
+    font-size: 16pt;
+    font-family: 'Sniglet', cursive;
+}
+
+#bemvindo{
+    position: relative;
+    /* top: 20px; */
+    /* left: 20px; */
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+#SejaBemvindo{
+    font-size: 14pt;
+    font-family: 'Sniglet', cursive;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+footer{
+    font-family: 'Quicksand', sans-serif;
+}
