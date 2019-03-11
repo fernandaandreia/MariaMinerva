@@ -1,7 +1,7 @@
 body{
     margin: 0;
-    background-color: LightPink;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: whitesmoke;
+    font-family: 'Quicksand', sans-serif;
 }
 
 header{
@@ -24,7 +24,7 @@ header{
     position: relative;
     /* top: 20px; */
     /* left: 20px; */
-    background-color: white;
+    background-color: pink;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -35,10 +35,21 @@ header{
     font-family: 'Sniglet', cursive;
 }
 
-p{
+/* p{
     font-family: 'Quicksand', sans-serif;
 }
 
 footer{
     font-family: 'Quicksand', sans-serif;
+} */
+
+section{
+    text-align: center;
+}
+#imagemsection{
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    
 }
